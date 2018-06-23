@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="input">Crear Marcador</string>
+    <string name="input_content">Nombre</string>
+    <string name="input_hint">Nombre de Marcador</string>
+    <string name="input_prefill" ></string>
+    <string name="crear">Crear</string>
+</resources>
